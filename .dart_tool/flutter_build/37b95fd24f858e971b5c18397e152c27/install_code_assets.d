@@ -1,0 +1,1 @@
+ /home/henry-burelo/Documentos/final/agente_ia/.dart_tool/flutter_build/37b95fd24f858e971b5c18397e152c27/native_assets.json: 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agente_ia.iml" filepath="$PROJECT_DIR$/agente_ia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/agente_ia_android.iml" filepath="$PROJECT_DIR$/android/agente_ia_android.iml" />
+    </modules>
+  </component>
+</project>
