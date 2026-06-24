@@ -1,6 +1,6 @@
 {
-    "name": "agente_ia",
-    "short_name": "agente_ia",
+    "name": "Mentor IA",
+    "short_name": "Mentor IA",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

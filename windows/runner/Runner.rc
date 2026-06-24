@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "agente_ia" "\0"
+            VALUE "FileDescription", "Mentor IA" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "agente_ia" "\0"
+            VALUE "InternalName", "Mentor IA" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "agente_ia.exe" "\0"
-            VALUE "ProductName", "agente_ia" "\0"
+            VALUE "OriginalFilename", "Mentor IA.exe" "\0"
+            VALUE "ProductName", "Mentor IA" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
